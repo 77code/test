@@ -2,9 +2,9 @@
     "name": "trinhdev/hello-world",
     "description": "the first composer package",
     "type": "php",
-    "license": "aaa",
+    "license": "trinhdev-docs",
     "authors": [{
-        "name": "kynm",
+        "name": "trinhdev",
         "email": "info.trinhdev@gmail.com"
     }],
     "minimum-stability": "dev",
