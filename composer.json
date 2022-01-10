@@ -1,11 +1,11 @@
 {
-    "name": "kynm/hello-world",
+    "name": "trinhdev/hello-world",
     "description": "the first composer package",
     "type": "php",
     "license": "aaa",
     "authors": [{
         "name": "kynm",
-        "email": "nguyen.manh.ky@framgia.com"
+        "email": "info.trinhdev@gmail.com"
     }],
     "minimum-stability": "dev",
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kynm\\SayHello\\": "src/"
+            "trinhdev\\SayHello\\": "src/"
         }
     }
 }
